@@ -1,6 +1,6 @@
 # ZOMBIE PLAGUE X70
 Zombie Plague 7.2.0
-By Łuckʏ
+By Łuckʏ 
 -------------------------
 Version 7.2.0 (11, February 2022)
 * Added Extra Item: Totem of Undying
