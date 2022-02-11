@@ -1,13 +1,7 @@
 # ZOMBIE PLAGUE X70
-Zombie Plague 7.2.0
+Zombie Plague 7.1.0
 By Łuckʏ
 -------------------------
-Version 7.2.0 (11, February 2022)
-* Added Extra Item: Totem of Undying
-* compatible with survivor & sniper
-* zp_sniper_zbomb_damage (how much hp will taken if get hitted by zbomb)
-* zp_survivor_zbomb_damage (how much hp will taken if get hitted by zbomb)
-
 Version 7.1.0 (08, February 2022)
 * Added Drag Ability
 * Added zp_extra_madness_limit <amout> (for limit it)
