@@ -1,7 +1,11 @@
 # ZOMBIE PLAGUE X70
-Zombie Plague 7.2.0
+Zombie Plague 7.2.1
 By Łuckʏ
 -------------------------
+# Version 7.2.1 (12, February 2022)
+* Fixed Drag Ability ignore Limit
+* Fixed Drag Ability Dont get Removed
+
 Version 7.2.0 (11, February 2022)
 * Added Extra Item: Totem of Undying
 * compatible with survivor & sniper
