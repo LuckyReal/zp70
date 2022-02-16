@@ -1,7 +1,11 @@
 # ZOMBIE PLAGUE X70
-Zombie Plague 7.2.2
+Zombie Plague 7.3.0
 By Łuckʏ
 -------------------------
+Version 7.3.0 (17, February 2022)
+* Added Extra Item : Survivors M134
+* Added Extra Item : Snipers AWP
+
 Version 7.2.2 (14, February 2022)
 * Fixed Totem of Undying (Extra Item) Bug
 
