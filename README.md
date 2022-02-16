@@ -1,5 +1,5 @@
 # ZOMBIE PLAGUE X70
-Zombie Plague 7.2.2
+Zombie Plague 7.2.2 
 By Łuckʏ
 -------------------------
 Version 7.2.2 (14, February 2022)
