@@ -1,7 +1,10 @@
-# ZOMBIE PLAGUE X70
-Zombie Plague 7.3.0
+# ZOMBIE PLAGUE X73
+Zombie Plague 7.3.1
 By Łuckʏ
 -------------------------
+Version 7.3.1 (09, April 2022)
+* Fixed Apokalypse & Nightmare game crash on start.
+* 
 Version 7.3.0 (17, February 2022)
 * Added Extra Item : Survivors M134
 * Added Extra Item : Snipers AWP
